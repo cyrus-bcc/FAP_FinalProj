@@ -12,7 +12,7 @@
 
     <body>
         <div class="container">
-            <h1>Error 404</h1>
+            <h1>Error 404 hi love!</h1>
             <form action="index.jsp">
                 <input type="submit" value="Return to Login">
             </form>
